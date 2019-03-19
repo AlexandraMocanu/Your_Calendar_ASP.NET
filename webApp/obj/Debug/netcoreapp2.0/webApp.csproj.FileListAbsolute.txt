@@ -1,0 +1,11 @@
+C:\Users\Alexandra\Desktop\SCRC_LAB\webApp\webApp\bin\Debug\netcoreapp2.0\webApp.deps.json
+C:\Users\Alexandra\Desktop\SCRC_LAB\webApp\webApp\bin\Debug\netcoreapp2.0\webApp.runtimeconfig.json
+C:\Users\Alexandra\Desktop\SCRC_LAB\webApp\webApp\bin\Debug\netcoreapp2.0\webApp.runtimeconfig.dev.json
+C:\Users\Alexandra\Desktop\SCRC_LAB\webApp\webApp\bin\Debug\netcoreapp2.0\webApp.dll
+C:\Users\Alexandra\Desktop\SCRC_LAB\webApp\webApp\bin\Debug\netcoreapp2.0\webApp.pdb
+C:\Users\Alexandra\Desktop\SCRC_LAB\webApp\webApp\obj\Debug\netcoreapp2.0\webApp.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\SCRC_LAB\webApp\webApp\obj\Debug\netcoreapp2.0\webApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\SCRC_LAB\webApp\webApp\obj\Debug\netcoreapp2.0\webApp.AssemblyInfoInputs.cache
+C:\Users\Alexandra\Desktop\SCRC_LAB\webApp\webApp\obj\Debug\netcoreapp2.0\webApp.AssemblyInfo.cs
+C:\Users\Alexandra\Desktop\SCRC_LAB\webApp\webApp\obj\Debug\netcoreapp2.0\webApp.dll
+C:\Users\Alexandra\Desktop\SCRC_LAB\webApp\webApp\obj\Debug\netcoreapp2.0\webApp.pdb
